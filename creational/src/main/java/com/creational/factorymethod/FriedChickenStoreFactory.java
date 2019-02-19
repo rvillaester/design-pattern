@@ -9,10 +9,10 @@ public class FriedChickenStoreFactory {
                 store = new Jollibee();
                 break;
             case KENNYROGERS:
-                store = new Jollibee();
+                store = new KennyRogers();
                 break;
             case MCDONALDS:
-                store = new Jollibee();
+                store = new McDonalds();
                 break;
             default:
                 break;
